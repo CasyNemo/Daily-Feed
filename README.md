@@ -1,3 +1,1 @@
-# Briefly
-This program uses the https://newscatcherapi.com/ API
-Summarises articles into a small cohesive paragraph, save time reading the news.
+please go and see my new submission for newscatcher api.  thank you
